@@ -4,6 +4,6 @@ Hey! This program is made to enhance the movie-watching experience. With the hel
 
 Date: 29/05/2025
 
-Basic functionalities like play and pause are done.
+Basic functionalities like play ,pause and Full Screen are done.
 Stay tuned — more cool features will be added soon!
 
