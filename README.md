@@ -6,7 +6,7 @@ Date: 29/05/2025
 
 Basic functionalities like play ,pause and Full Screen are done.
 
-If full fist is open then Full Screen mode 
+If full fist is open then Full Screen mode. 
 If fist is closed then video is Paused
 
 Stay tuned — more cool features will be added soon!
