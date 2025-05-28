@@ -1,1 +1,9 @@
-# Hand_Control
+# Hand Contol
+
+Hey! This program is made to enhance the movie-watching experience. With the help of MediaPipe provided by Google, along with PyAutoGUI and OpenCV, it was made possible!
+
+Date: 29/05/2025
+
+Basic functionalities like play and pause are done.
+Stay tuned — more cool features will be added soon!
+
